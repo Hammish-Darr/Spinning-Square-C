@@ -13,7 +13,7 @@ int main() {
     memset(size, '.', sizeof(size));
 
 
-    double Speed = 0.02;
+    double Speed = 0.002;
 
     int rndx;
     int rndy;
